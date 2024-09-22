@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/19 10:44:37.000.162,=C:\Users\tiago\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/19 10:46:10.000.457,C:\Projetos\TesteTecnicoWK\Pedido.pas=C:\Users\tiago\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/19 10:46:10.000.457,C:\Projetos\TesteTecnicoWK\Pedido.dfm=C:\Users\tiago\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/09/19 10:47:26.000.406,C:\Projetos\TesteTecnicoWK\PedidoVenda.dproj=C:\Users\tiago\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/09/19 12:06:06.000.432,=C:\Projetos\TesteTecnicoWK\Unit1.pas</Transaction>
+    <Transaction>2024/09/19 12:08:39.000.738,C:\Projetos\TesteTecnicoWK\uDataBase.dfm=C:\Projetos\TesteTecnicoWK\Unit1.dfm</Transaction>
+    <Transaction>2024/09/19 12:08:39.000.738,C:\Projetos\TesteTecnicoWK\uDataBase.pas=C:\Projetos\TesteTecnicoWK\Unit1.pas</Transaction>
+    <Transaction>2024/09/19 12:09:13.000.536,C:\Projetos\TesteTecnicoWK\uPedido.dfm=C:\Projetos\TesteTecnicoWK\Pedido.dfm</Transaction>
+    <Transaction>2024/09/19 12:09:13.000.536,C:\Projetos\TesteTecnicoWK\uPedido.pas=C:\Projetos\TesteTecnicoWK\Pedido.pas</Transaction>
+    <Transaction>2024/09/19 12:09:39.000.486,C:\Projetos\TesteTecnicoWK\Pedido.dfm=C:\Projetos\TesteTecnicoWK\uPedido.dfm</Transaction>
+    <Transaction>2024/09/19 12:09:39.000.486,C:\Projetos\TesteTecnicoWK\Pedido.pas=C:\Projetos\TesteTecnicoWK\uPedido.pas</Transaction>
+    <Transaction>2024/09/19 12:09:47.000.107,C:\Projetos\TesteTecnicoWK\DataBase.dfm=C:\Projetos\TesteTecnicoWK\uDataBase.dfm</Transaction>
+    <Transaction>2024/09/19 12:09:47.000.107,C:\Projetos\TesteTecnicoWK\DataBase.pas=C:\Projetos\TesteTecnicoWK\uDataBase.pas</Transaction>
+    <Transaction>2024/09/19 14:12:40.000.482,C:\Projetos\TesteTecnicoWK\DataBase.dfm=C:\Projetos\TesteTecnicoWK\uDataBase.dfm</Transaction>
+    <Transaction>2024/09/19 14:12:40.000.482,C:\Projetos\TesteTecnicoWK\DataBase.pas=C:\Projetos\TesteTecnicoWK\uDataBase.pas</Transaction>
+    <Transaction>2024/09/19 14:12:47.000.109,C:\Projetos\TesteTecnicoWK\Pedido.dfm=C:\Projetos\TesteTecnicoWK\uPedido.dfm</Transaction>
+    <Transaction>2024/09/19 14:12:47.000.109,C:\Projetos\TesteTecnicoWK\Pedido.pas=C:\Projetos\TesteTecnicoWK\uPedido.pas</Transaction>
+    <Transaction>2024/09/19 15:27:45.000.386,=C:\Projetos\TesteTecnicoWK\Unit1.pas</Transaction>
+    <Transaction>2024/09/19 15:28:25.000.256,C:\Projetos\TesteTecnicoWK\uTables.dfm=C:\Projetos\TesteTecnicoWK\Unit1.dfm</Transaction>
+    <Transaction>2024/09/19 15:28:25.000.256,C:\Projetos\TesteTecnicoWK\uTables.pas=C:\Projetos\TesteTecnicoWK\Unit1.pas</Transaction>
+    <Transaction>2024/09/19 15:30:32.000.370,C:\Projetos\TesteTecnicoWK\uDataQuery.pas=C:\Projetos\TesteTecnicoWK\uTables.pas</Transaction>
+    <Transaction>2024/09/19 15:30:32.000.370,C:\Projetos\TesteTecnicoWK\uDataQuery.dfm=C:\Projetos\TesteTecnicoWK\uTables.dfm</Transaction>
+    <Transaction>2024/09/20 08:52:11.000.994,=C:\Projetos\TesteTecnicoWK\Unit1.pas</Transaction>
+    <Transaction>2024/09/20 08:53:16.000.114,C:\Projetos\TesteTecnicoWK\uUtil.pas=C:\Projetos\TesteTecnicoWK\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
